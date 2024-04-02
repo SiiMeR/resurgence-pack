@@ -1,0 +1,19 @@
+﻿[
+  {
+    "ingredientPattern": "C",
+    "ingredients": {
+      "C": {
+        "type": "item",
+        "code": "game:cattailtops",
+        "quantity": 32
+      }
+    },
+    "width": 1,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "game:cattailroot"
+    },
+    "recipeGroup": 1
+  }
+]
