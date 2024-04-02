@@ -1,0 +1,15 @@
+{
+    "type": "content",
+    "modid": "resurgencepack",
+    "name": "ResurgencePack",
+    "authors": [
+        "SiiMeR", "aaglo", "Static88"
+    ],
+    "RequiredOnServer": true,
+    "RequiredOnClient": true,
+    "description": "Patches for the Resurgence RP server",
+    "version": "1.0.3",
+    "dependencies": {
+        "game": "1.19.4"
+    }
+}

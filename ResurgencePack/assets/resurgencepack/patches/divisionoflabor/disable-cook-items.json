@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": "divisionoflabor:blocktypes/copper/coppercookingpot.json",
+    "op": "addmerge",
+    "path": "/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  },
+  {
+    "file": "divisionoflabor:blocktypes/copper/copperfryingpan.json",
+    "op": "addmerge",
+    "path": "/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  }
+]

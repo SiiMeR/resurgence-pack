@@ -1,0 +1,310 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/catmint.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/catmint.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/cornflower.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/cornflower.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/cowparsley.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/cowparsley.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": 8,
+    "file": "flowerfarming:blocktypes/crop/croton.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/croton.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/edelweiss.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/edelweiss.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelowByType/*-eaglefern-*",
+    "value": -12,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelowByType/*-cinnamonfern-*",
+    "value": -12,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelowByType/*-deerfern-*",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelowByType/*-hartstongue-*",
+    "value": 6,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAboveByType/*-eaglefern-*",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAboveByType/*-cinnamonfern-*",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAboveByType/*-deerfern-*",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAboveByType/*-hartstongue-*",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/fern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/forgetmenot.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 35,
+    "file": "flowerfarming:blocktypes/crop/forgetmenot.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": 8,
+    "file": "flowerfarming:blocktypes/crop/goldenpoppy.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/goldenpoppy.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/heather.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/heather.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/horsetail.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/horsetail.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/lilyofthevalley.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/lilyofthevalley.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/lupine.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/lupine.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": 8,
+    "file": "flowerfarming:blocktypes/crop/orangemallow.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/orangemallow.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": 8,
+    "file": "flowerfarming:blocktypes/crop/rafflesia.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/rafflesia.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/redtopgrass.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/redtopgrass.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": 8,
+    "file": "flowerfarming:blocktypes/crop/tallfern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 46,
+    "file": "flowerfarming:blocktypes/crop/tallfern.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -12,
+    "file": "flowerfarming:blocktypes/crop/westerngorse.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/westerngorse.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/wilddaisy.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 35,
+    "file": "flowerfarming:blocktypes/crop/wilddaisy.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/coldDamageBelow",
+    "value": -5,
+    "file": "flowerfarming:blocktypes/crop/woad.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/heatDamageAbove",
+    "value": 27,
+    "file": "flowerfarming:blocktypes/crop/woad.json",
+    "dependsOn": [{ "modid": "flowerfarming" }]
+  }
+]

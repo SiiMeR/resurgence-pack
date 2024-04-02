@@ -1,0 +1,9 @@
+[
+  {
+    "file": "ssppvv:blocktypes/stone/stonepath.json",
+    "op": "add",
+    "path": "/attributes/mapColorCode",
+    "value": "road",
+    "dependsOn": [{ "modid": "ssppvv" }]
+  }
+]

@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": "divisionoflabor:recipes/grid/cook.json",
+    "op": "addmerge",
+    "path": "/0/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/cook.json",
+    "op": "addmerge",
+    "path": "/1/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  }
+]

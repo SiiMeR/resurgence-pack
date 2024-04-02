@@ -1,0 +1,211 @@
+﻿[
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/0/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/1/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/2/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/3/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/4/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/5/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/6/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/7/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/8/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/9/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/10/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/11/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/12/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/13/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/14/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/15/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/16/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/17/ingredients/S/quantity",
+    "value": 3
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/seeds.json",
+    "dependsOn": [
+      {
+        "modid": "divisionoflabor"
+      }
+    ],
+    "op": "add",
+    "path": "/18/ingredients/S/quantity",
+    "value": 3
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "ingredientPattern": "R,S",
+    "ingredients": {
+      "R": { "type": "item", "code": "game:stone-*", "name": "rock", "quantity": 4, "allowedVariants": ["dolostone","siltstone","mudstone","quartzite","gneiss","schist","migmatite","amphibolite","rhyolite","pumice","diorite","gabbro","jade","jasper"] },
+      "S": { "type": "block", "code": "game:soil-*" }
+    },
+    "width": 1,
+    "height": 2,
+    "output": { "type": "block", "code": "ssppvv:stonepath-{rock}-free" },
+    "recipeGroup": 1
+  },
+  {
+    "ingredientPattern": "RR,RR,S_",
+    "ingredients": {
+      "R": { "type": "item", "code": "game:stone-*", "name": "rock", "allowedVariants": ["dolostone","siltstone","mudstone","quartzite","gneiss","schist","migmatite","amphibolite","rhyolite","pumice","diorite","gabbro","jade","jasper"] },
+      "S": { "type": "block", "code": "game:soil-*" }
+    },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "ssppvv:stonepath-{rock}-free" },
+    "recipeGroup": 2
+  },
+  {
+    "ingredientPattern": "R_,RR,S_",
+    "ingredients": {
+      "R": { "type": "item", "code": "game:stone-*", "name": "rock", "allowedVariants": ["dolostone","siltstone","mudstone","quartzite","gneiss","schist","migmatite","amphibolite","rhyolite","pumice","diorite","gabbro","jade","jasper"] },
+      "S": { "type": "block", "code": "game:soil-*" }
+    },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "ssppvv:stonepathslab-{rock}-free" },
+    "recipeGroup": 3
+  },
+  {
+    "ingredientPattern": "__,RR,S_",
+    "ingredients": {
+      "R": { "type": "item", "code": "game:stone-*", "name": "rock", "allowedVariants": ["dolostone","siltstone","mudstone","quartzite","gneiss","schist","migmatite","amphibolite","rhyolite","pumice","diorite","gabbro","jade","jasper"] },
+      "S": { "type": "block", "code": "game:soil-*" }
+    },
+    "width": 2,
+    "height": 3,
+    "output": { "type": "block", "code": "ssppvv:stonepathstairs-{rock}-free" },
+    "recipeGroup": 4
+  }
+]

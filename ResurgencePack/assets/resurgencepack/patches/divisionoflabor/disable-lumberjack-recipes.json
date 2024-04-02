@@ -1,0 +1,16 @@
+﻿[
+  {
+    "file": "divisionoflabor:recipes/grid/lumberjack.json",
+    "op": "addmerge",
+    "path": "/4/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  },
+  {
+    "file": "divisionoflabor:recipes/grid/lumberjack.json",
+    "op": "addmerge",
+    "path": "/5/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  }
+]

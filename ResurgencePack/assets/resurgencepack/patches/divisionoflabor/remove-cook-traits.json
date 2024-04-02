@@ -1,0 +1,9 @@
+[
+  {
+    "file": "game:config/characterclasses.json",
+    "op": "replace",
+    "path": "/10/traits",
+    "value": [],
+    "dependsOn": [{"modid": "divisionoflabor"}]
+  }
+]

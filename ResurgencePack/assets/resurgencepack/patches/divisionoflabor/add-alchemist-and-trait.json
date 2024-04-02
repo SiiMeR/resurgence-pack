@@ -1,0 +1,31 @@
+[
+  {
+    "file": "game:config/traits.json",
+    "op": "addmerge",
+    "path": "/-",
+    "value": {
+      "code": "alchemist",
+      "type": "positive",
+      "attributes": {}
+    }
+  },
+  {
+    "file": "game:config/characterclasses.json",
+    "op": "add",
+    "path": "/-",
+    "value": {
+      "code": "alchemist",
+      "traits": ["alchemist"],
+      "gear": [
+        { "type": "item", "code": "clothes-head-alchemist" },
+        { "type": "item", "code": "clothes-shoulder-alchemist" },
+        { "type": "item", "code": "clothes-upperbody-alchemist" },
+        { "type": "item", "code": "clothes-upperbodyover-alchemist" },
+        { "type": "item", "code": "clothes-waist-alchemist" },
+        { "type": "item", "code": "clothes-lowerbody-alchemist" },
+        { "type": "item", "code": "clothes-foot-alchemist" }
+      ]
+    },
+    "dependsOn": [{"modid": "divisionoflabor"}]
+  }
+]
