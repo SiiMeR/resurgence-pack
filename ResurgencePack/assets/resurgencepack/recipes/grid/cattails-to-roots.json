@@ -1,6 +1,7 @@
 ﻿[
   {
     "ingredientPattern": "C",
+    "requiresTrait": "farmer",
     "ingredients": {
       "C": {
         "type": "item",
@@ -14,6 +15,7 @@
       "type": "item",
       "code": "game:cattailroot"
     },
-    "recipeGroup": 1
+    "recipeGroup": 1,
+    "dependsOn": [{"modid": "divisionoflabor"}]
   }
 ]
