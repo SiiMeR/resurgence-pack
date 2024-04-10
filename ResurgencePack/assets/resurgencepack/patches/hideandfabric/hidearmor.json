@@ -1,0 +1,24 @@
+[
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/hidearmor.json",
+    "path": "/attributes/statModifiersByType/hidearmor-*-wolfhide/walkSpeed",
+    "op": "addmerge",
+    "value": -0.03,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/hidearmor.json",
+    "path": "/attributes/statModifiersByType/hidearmor-*-bearhide/walkSpeed",
+    "op": "addmerge",
+    "value": -0.03,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  }
+]

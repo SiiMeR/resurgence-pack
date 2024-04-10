@@ -1,0 +1,24 @@
+[
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/woolarmor.json",
+    "path": "/attributes/statModifiersByType/*-sewn/walkSpeed",
+    "op": "addmerge",
+    "value": -0.04,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/woolarmor.json",
+    "path": "/attributes/statModifiersByType/*-tailored-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.04,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  }
+]

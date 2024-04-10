@@ -1,0 +1,88 @@
+[
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-lamellar-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.06
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-sewn-linen/walkSpeed",
+    "op": "addmerge",
+    "value": -0.03
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-sewn-leather",
+    "op": "addmerge",
+    "value": {
+      "walkSpeed": -0.03
+    }
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-tailored-*-linen/walkSpeed",
+    "op": "addmerge",
+    "value": -0.04
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-brigandine-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.06
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-chain-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.07
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-scale-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.1
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-plate-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.16
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-blackguard-pristine/walkSpeed",
+    "op": "addmerge",
+    "value": -0.14
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-blackguard-damaged/walkSpeed",
+    "op": "addmerge",
+    "value": -0.11
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-blackguard-broken/walkSpeed",
+    "op": "addmerge",
+    "value": -0.1
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-forlorn-pristine/walkSpeed",
+    "op": "addmerge",
+    "value": -0.11
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-forlorn-damaged/walkSpeed",
+    "op": "addmerge",
+    "value": -0.1
+  },
+  {
+    "file": "game:itemtypes/wearable/armor.json",
+    "path": "/attributes/statModifiersByType/armor-*-antique-forlorn-broken/walkSpeed",
+    "op": "addmerge",
+    "value": -0.09
+  }
+]

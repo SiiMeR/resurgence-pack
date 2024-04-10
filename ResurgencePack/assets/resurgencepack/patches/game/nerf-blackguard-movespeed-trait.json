@@ -1,0 +1,8 @@
+[
+  {
+    "file": "game:config/traits.json",
+    "path": "/9/attributes/armorWalkSpeedAffectedness",
+    "op": "replace",
+    "value": -0.2
+  }
+]

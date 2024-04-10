@@ -1,0 +1,24 @@
+[
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/cottonarmor.json",
+    "path": "/attributes/statModifiersByType/cottonarmor-*-sewn/walkSpeed",
+    "op": "addmerge",
+    "value": -0.04,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:itemtypes/wearable/armor/cottonarmor.json",
+    "path": "/attributes/statModifiersByType/cottonarmor-*-tailored-*/walkSpeed",
+    "op": "addmerge",
+    "value": -0.04,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  }
+]
