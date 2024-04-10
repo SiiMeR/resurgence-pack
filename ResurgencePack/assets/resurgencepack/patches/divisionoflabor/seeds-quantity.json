@@ -171,9 +171,20 @@
         "modid": "divisionoflabor"
       }
     ],
-    "op": "add",
-    "path": "/15/ingredients/S/quantity",
-    "value": 3
+    "op": "replace",
+    "path": "/15/ingredients",
+    "value": {
+      "S": {
+        "type": "item",
+        "code": "game:vegetable-pumpkin",
+        "quantity": 4
+      },
+      "W": {
+        "type": "item",
+        "code": "game:saw-*",
+        "isTool": true
+      }
+    }
   },
   {
     "file": "divisionoflabor:recipes/grid/seeds.json",
