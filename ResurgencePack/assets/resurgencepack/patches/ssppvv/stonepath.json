@@ -5,5 +5,19 @@
     "path": "/attributes/mapColorCode",
     "value": "road",
     "dependsOn": [{ "modid": "ssppvv" }]
+  },
+  {
+    "file": "ssppvv:blocktypes/stone/stonepathslab.json",
+    "op": "add",
+    "path": "/attributes/mapColorCode",
+    "value": "road",
+    "dependsOn": [{ "modid": "ssppvv" }]
+  },
+  {
+    "file": "ssppvv:blocktypes/stone/stonepathstairs.json",
+    "op": "add",
+    "path": "/attributes/mapColorCode",
+    "value": "road",
+    "dependsOn": [{ "modid": "ssppvv" }]
   }
 ]
