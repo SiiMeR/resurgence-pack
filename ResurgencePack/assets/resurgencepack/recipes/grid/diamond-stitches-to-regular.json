@@ -1,0 +1,46 @@
+[
+  {
+    "ingredientPattern": "FK",
+    "ingredients": {
+      "F": {
+        "type": "block",
+        "code": "hideandfabric:fabric-cotton-*-down",
+        "allowedVariants": ["square", "offset", "diamond"]      },
+      "K": {
+        "type": "item",
+        "code": "game:shears-*",
+        "isTool": true
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "name": "fancy cotton to regular",
+    "output": {
+      "type": "block",
+      "code": "hideandfabric:fabric-cotton-normal-down"
+    },
+    "dependsOn": [{"modid": "hideandfabric"}]
+  },
+  {
+    "ingredientPattern": "FK",
+    "ingredients": {
+      "F": {
+        "type": "block",
+        "code": "hideandfabric:fabric-wool-*-down",
+        "allowedVariants": ["square", "offset", "diamond"]      },
+      "K": {
+        "type": "item",
+        "code": "game:shears-*",
+        "isTool": true
+      }
+    },
+    "width": 2,
+    "height": 1,
+    "name": "fancy wool to regular",
+    "output": {
+      "type": "block",
+      "code": "hideandfabric:fabric-wool-normal-down"
+    },
+    "dependsOn": [{"modid": "hideandfabric"}]
+  }
+]
