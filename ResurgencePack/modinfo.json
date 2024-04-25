@@ -8,7 +8,7 @@
     "RequiredOnServer": true,
     "RequiredOnClient": true,
     "description": "Patches for the Resurgence RP server",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "dependencies": {
         "game": "1.19.4"
     }
