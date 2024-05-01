@@ -1,0 +1,9 @@
+[
+  {
+    "file": "divisionoflabor:recipes/grid/clockmaker.json",
+    "op": "addmerge",
+    "path": "/4/enabled",
+    "value": false,
+    "dependsOn": [{ "modid": "divisionoflabor" }]
+  }
+]
