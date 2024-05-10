@@ -1,0 +1,142 @@
+﻿[
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-dolostone"},
+      "C": { "type": "item", "code": "game:stonebrick-dolostone" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-dolostone" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-siltstone"},
+      "C": { "type": "item", "code": "game:stonebrick-siltstone" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-siltstone" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-mudstone"},
+      "C": { "type": "item", "code": "game:stonebrick-mudstone" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-mudstone" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-quartzite"},
+      "C": { "type": "item", "code": "game:stonebrick-quartzite" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-quartzite" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-gneiss"},
+      "C": { "type": "item", "code": "game:stonebrick-gneiss" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-gneiss" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-schist"},
+      "C": { "type": "item", "code": "game:stonebrick-schist" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-schist" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-migmatite"},
+      "C": { "type": "item", "code": "game:stonebrick-migmatite" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-migmatite" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-amphibolite"},
+      "C": { "type": "item", "code": "game:stonebrick-amphibolite" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-amphibolite" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-rhiolite"},
+      "C": { "type": "item", "code": "game:stonebrick-rhiolite" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-rhiolite" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-pumice"},
+      "C": { "type": "item", "code": "game:stonebrick-pumice" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-pumice" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-diorite"},
+      "C": { "type": "item", "code": "game:stonebrick-diorite" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-diorite" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-gabbro"},
+      "C": { "type": "item", "code": "game:stonebrick-gabbro" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-gabbro" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-jade"},
+      "C": { "type": "item", "code": "game:stonebrick-jade" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-jade" }
+  },
+  {
+    "ingredientPattern": "LLL,LCL,LLL",
+    "ingredients": {
+      "L": { "type": "item", "code": "game:stone-jasper"},
+      "C": { "type": "item", "code": "game:stonebrick-jasper" }
+    },
+    "width": 3,
+    "height": 3,
+    "output": { "type": "block", "code": "game:drystone-jasper" }
+  }
+]
