@@ -1,0 +1,105 @@
+﻿[
+  {
+    "file": "game:entities/land/fox.json",
+    "op": "remove",
+    "path": "/server/behaviors/6/drops"
+  },
+  {
+    "file": "game:entities/land/fox.json",
+    "op": "add",
+    "path": "/server/behaviors/6/dropsByType",
+    "value": {
+      "*-red": [
+        {
+          "type": "item",
+          "code": "game:bushmeat-raw",
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 0,
+              var: 0
+            },
+            "*": {
+              avg: 2,
+              var: 1
+            }
+          }
+        },
+        {
+          "type": "item",
+          "code": "hideandfabric:hide-small-fox-forest",
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 1,
+              var: 0
+            },
+            "*": {
+              avg: 1,
+              var: 0
+            }
+          }
+        },
+        {
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 0.25,
+              var: 0
+            },
+            "*": {
+              avg: 0.25,
+              var: 0
+            }
+          }
+        }
+      ],
+      "*-arctic": [
+        {
+          "type": "item",
+          "code": "game:bushmeat-raw",
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 0,
+              var: 0
+            },
+            "*": {
+              avg: 2,
+              var: 1
+            }
+          }
+        },
+        {
+          "type": "item",
+          "code": "hideandfabric:hide-small-fox-arctic",
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 1,
+              var: 0
+            },
+            "*": {
+              avg: 1,
+              var: 0
+            }
+          }
+        },
+        {
+          "type": "item",
+          "code": "game:fat",
+          "quantityByType": {
+            "*-pup-*": {
+              avg: 0.25,
+              var: 0
+            },
+            "*": {
+              avg: 0.25,
+              var: 0
+            }
+          }
+        }
+      ]
+    },
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+﻿[
+  {
+    "file": "hideandfabric:recipes/grid/armor/hidearmor.json",
+    "path": "/4/enabled",
+    "op": "replace",
+    "value": true,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:recipes/grid/armor/hidearmor.json",
+    "path": "/5/enabled",
+    "op": "replace",
+    "value": true,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:recipes/grid/armor/hidearmor.json",
+    "path": "/6/enabled",
+    "op": "replace",
+    "value": true,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  },
+  {
+    "file": "hideandfabric:recipes/grid/armor/hidearmor.json",
+    "path": "/7/enabled",
+    "op": "replace",
+    "value": true,
+    "dependsOn": [
+      {
+        "modid": "hideandfabric"
+      }
+    ]
+  }
+]

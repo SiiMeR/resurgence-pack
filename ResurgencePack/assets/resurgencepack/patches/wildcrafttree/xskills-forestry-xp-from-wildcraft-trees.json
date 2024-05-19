@@ -1,0 +1,96 @@
+﻿[
+  {
+    "file": "wildcrafttree:blocktypes/plant/plaintreesapling",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsSapling"
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcrafttree:blocktypes/wood/woodtyped/log",
+    "op": "add",
+    "path": "/behaviorsByType/*-grown-*/-",
+    "value": {
+      "name": "XSkillsWood",
+      "properties": {
+        "xp": 0.4
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcrafttree:blocktypes/wood/woodtyped/log-section",
+    "op": "add",
+    "path": "/behaviorsByType/*-grown-*/-",
+    "value": {
+      "name": "XSkillsWood",
+      "properties": {
+        "xp": 0.25
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcrafttree:blocktypes/plant/leaves/normal",
+    "op": "add",
+    "path": "/behaviorsByType/*-grown*-*/-",
+    "value": {
+      "name": "XSkillsLeaves",
+      "properties": {
+        "xp": 0.01
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcrafttree:blocktypes/plant/leaves/branchy",
+    "op": "add",
+    "path": "/behaviorsByType/*-grown*-*/-",
+    "value": {
+      "name": "XSkillsLeaves",
+      "properties": {
+        "xp": 0.02
+      }
+    },
+    "dependsOn": [
+      {
+        "modid": "wildcrafttree"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  }
+]
