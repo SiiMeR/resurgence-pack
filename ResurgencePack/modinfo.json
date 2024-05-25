@@ -3,12 +3,12 @@
     "modid": "resurgencepack",
     "name": "ResurgencePack",
     "authors": [
-        "SiiMeR", "aaglo", "Static88", "Viceroy"
+        "SiiMeR", "aaglo", "Static88", "Viceroy", "Ket"
     ],
     "RequiredOnServer": true,
     "RequiredOnClient": true,
     "description": "Patches for the Resurgence RP server",
-    "version": "1.5.0",
+    "version": "1.5.1",
     "dependencies": {
         "game": "1.19.7"
     }
