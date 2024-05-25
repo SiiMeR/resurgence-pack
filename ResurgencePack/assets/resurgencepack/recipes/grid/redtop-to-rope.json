@@ -1,0 +1,35 @@
+﻿[
+  {
+    "ingredientPattern": "CCC",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:flower-redtopgrass-free",
+        "quantity": 4
+      }
+    },
+    "width": 3,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "game:rope"
+    }
+  },
+  {
+    "ingredientPattern": "CCC",
+    "requiresTrait": "clothier",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "game:flower-redtopgrass-free",
+        "quantity": 2
+      }
+    },
+    "width": 3,
+    "height": 1,
+    "output": {
+      "type": "item",
+      "code": "game:rope"
+    }
+  }
+]
