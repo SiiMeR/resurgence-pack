@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/combustibleProps/burnDuration",
+    "value": 15,
+    "file": "game:itemtypes/resource/bamboostakes.json",
+    "side": "server"
+  }
+]

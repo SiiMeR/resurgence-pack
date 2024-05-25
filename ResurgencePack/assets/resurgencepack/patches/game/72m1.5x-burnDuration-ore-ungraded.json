@@ -1,0 +1,23 @@
+[
+  {
+    "op": "replace",
+    "path": "/combustiblePropsByType/ore-anthracite/burnDuration",
+    "value": 294,
+    "file": "game:itemtypes/resource/ore-ungraded.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/combustiblePropsByType/ore-bituminouscoal/burnDuration",
+    "value": 126,
+    "file": "game:itemtypes/resource/ore-ungraded.json",
+    "side": "server"
+  },
+  {
+    "op": "replace",
+    "path": "/combustiblePropsByType/ore-lignite/burnDuration",
+    "value": 116,
+    "file": "game:itemtypes/resource/ore-ungraded.json",
+    "side": "server"
+  }
+]

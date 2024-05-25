@@ -1,0 +1,149 @@
+﻿[
+  {
+    "file": "wildcraftherb:blocktypes/plant/annuals",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/smallannual",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/bigleafperennial",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/evergreens",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/perennials",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/sedge",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  },
+  {
+    "file": "wildcraftherb:blocktypes/plant/crop/herbcrop",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [
+      {
+        "name": "XSkillsMushroom",
+        "properties": {
+          "xp": 0.2
+        }
+      }
+    ],
+    "dependsOn": [
+      {
+        "modid": "wildcraftherb"
+      },
+      {
+        "modid": "xskills"
+      }
+    ]
+  }
+]

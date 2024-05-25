@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/combustibleProps/burnDuration",
+    "value": 36,
+    "file": "game:itemtypes/resource/firewood.json",
+    "side": "server"
+  }
+]

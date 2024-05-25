@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/combustibleProps/burnDuration",
+    "value": 12,
+    "file": "game:itemtypes/resource/stick.json",
+    "side": "server"
+  }
+]

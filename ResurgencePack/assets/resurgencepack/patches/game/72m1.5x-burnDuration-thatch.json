@@ -1,0 +1,9 @@
+[
+  {
+    "op": "replace",
+    "path": "/combustibleProps/burnDuration",
+    "value": 6,
+    "file": "game:itemtypes/resource/thatch.json",
+    "side": "server"
+  }
+]

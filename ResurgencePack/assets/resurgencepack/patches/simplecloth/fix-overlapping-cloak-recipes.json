@@ -1,0 +1,35 @@
+﻿[
+  {
+    "file": "simplecloth:recipes/grid/cloth.json",
+    "path": "/11/ingredientPattern",
+    "op": "replace",
+    "value": "CCC,_D_,_D_",
+    "dependsOn": [
+      {
+        "modid": "simplecloth"
+      }
+    ]
+  },
+  {
+    "file": "simplecloth:recipes/grid/cloth.json",
+    "path": "/11/ingredients/D/quantity",
+    "op": "replace",
+    "value": "1",
+    "dependsOn": [
+      {
+        "modid": "simplecloth"
+      }
+    ]
+  },
+  {
+    "file": "simplecloth:recipes/grid/cloth.json",
+    "path": "/11/height",
+    "op": "replace",
+    "value": "3",
+    "dependsOn": [
+      {
+        "modid": "simplecloth"
+      }
+    ]
+  }
+]
