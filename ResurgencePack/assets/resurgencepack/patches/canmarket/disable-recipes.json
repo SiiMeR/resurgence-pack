@@ -1,0 +1,66 @@
+﻿[
+  {
+    "op": "addmerge",
+    "path": "/0/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canstall.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/1/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canstall.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/0/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canwarehouse.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/1/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canwarehouse.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/2/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canwarehouse.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/0/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/canwarehousebook.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/0/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/onchestmarketblock.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  },
+  {
+    "op": "addmerge",
+    "path": "/1/enabled",
+    "value": false,
+    "file": "canmarket:recipes/grid/onchestmarketblock.json",
+    "side": "server",
+    "dependsOn": [{ "modid": "canmarket" }]
+  }
+]
