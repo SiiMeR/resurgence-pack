@@ -3,7 +3,7 @@
     "file": "simplecloth:recipes/grid/cloth.json",
     "path": "/11/ingredientPattern",
     "op": "replace",
-    "value": "CCC,_D_,_D_",
+    "value": "CCC,_DD,_D_",
     "dependsOn": [
       {
         "modid": "simplecloth"
