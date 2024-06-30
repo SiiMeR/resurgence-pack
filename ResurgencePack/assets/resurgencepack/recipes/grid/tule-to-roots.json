@@ -1,11 +1,11 @@
-﻿[
+[
   {
     "ingredientPattern": "C",
     "requiresTrait": "farmer",
     "ingredients": {
       "C": {
         "type": "item",
-        "code": "game:papyrustops",
+        "code": "game:thatch",
         "quantity": 16
       }
     },
@@ -13,7 +13,7 @@
     "height": 1,
     "output": {
       "type": "item",
-      "code": "game:papyrusroot"
+      "code": "game:tuleroot"
     },
     "recipeGroup": 1,
     "dependsOn": [{"modid": "divisionoflabor"}]

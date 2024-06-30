@@ -1,0 +1,387 @@
+[
+{
+		"ingredientPattern": "HD",
+		"shapeless": true,
+		"ingredients": {
+			"H": { "type": "block", "code": "game:hardenedclay-fire" },
+			"D": { "type": "block", "code": "game:woodbucket" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "game:dye-red" },
+				"requiresLitres": 0.5
+			}
+		},		
+		"width": 2,
+		"height": 1,
+		"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-red", "quantity": 1  }
+},
+{
+		"ingredientPattern": "HD",
+		"shapeless": true,
+		"ingredients": {
+			"H": { "type": "block", "code": "game:hardenedclay-fire" },
+			"D": { "type": "block", "code": "game:woodbucket" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "game:dye-orange" },
+				"requiresLitres": 0.5
+			}
+		},		
+		"width": 2,
+		"height": 1,
+		"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-orange", "quantity": 1  }
+},
+{
+		"ingredientPattern": "HD",
+		"shapeless": true,
+		"ingredients": {
+			"H": { "type": "block", "code": "game:hardenedclay-fire" },
+			"D": { "type": "block", "code": "game:woodbucket" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "game:dye-yellow" },
+				"requiresLitres": 0.5
+			}
+		},		
+		"width": 2,
+		"height": 1,
+		"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-yellow", "quantity": 1  }
+},
+{
+		"ingredientPattern": "HD",
+		"shapeless": true,
+		"ingredients": {
+			"H": { "type": "block", "code": "game:hardenedclay-fire" },
+			"D": { "type": "block", "code": "game:woodbucket" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "game:dye-green" },
+				"requiresLitres": 0.5
+			}
+		},		
+		"width": 2,
+		"height": 1,
+		"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-green", "quantity": 1  }
+},
+{
+		"ingredientPattern": "HD",
+		"shapeless": true,
+		"ingredients": {
+			"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-green" },
+			"D": { "type": "block", "code": "game:woodbucket" }
+		},
+		"attributes": {
+			"liquidContainerProps": {
+				"requiresContent": { "type": "item", "code": "game:dye-white" },
+				"requiresLitres": 0.5
+			}
+		},		
+		"width": 2,
+		"height": 1,
+		"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lime", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-white" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-green" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lime", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-blue" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-blue", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-woad" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-blue", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-blue" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-white" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lightblue", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-white" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-blue" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lightblue", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-white" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-woad" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lightblue", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-purple" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-purple", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-purple" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-red" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-magenta", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-red" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-purple" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-magenta", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-white" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-white", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-black" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-black", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-gray" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-gray", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-gray" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-white" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lightgray", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-white" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-gray" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-lightgray", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HC",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"C": { "type": "item", "code": "game:compost" }
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-brown", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "game:hardenedclay-fire" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-pink" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-pink", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-blue" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-green" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-turquoise", "quantity": 1  }
+},
+{
+	"ingredientPattern": "HD",
+	"shapeless": true,
+	"ingredients": {
+		"H": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-green" },
+		"D": { "type": "block", "code": "game:woodbucket" }
+	},
+	"attributes": {
+		"liquidContainerProps": {
+			"requiresContent": { "type": "item", "code": "game:dye-blue" },
+			"requiresLitres": 0.5
+		}
+	},		
+	"width": 2,
+	"height": 1,
+	"output": { "type": "block", "code": "dyedhardenedclay:dyedhardenedclay-turquoise", "quantity": 1  }
+}
+]
